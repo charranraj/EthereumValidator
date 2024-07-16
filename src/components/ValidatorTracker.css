@@ -1,0 +1,24 @@
+.validator-tracker {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .validator-info, .validator-attestations {
+    margin-top: 1rem;
+  }
+  
+  .validator-attestations ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .validator-attestations li {
+    background-color: #e0e0e0;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
+  
